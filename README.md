@@ -4,6 +4,13 @@ A desktop application developed using VB.NET and MS Access for managing textile 
 VB.NET
 MS Access
 Windows Forms
+##  Features 
+User Login
+Customer Management
+Billing Management
+Sales Management
+Report Generation
+Database Integration
 ## Screenshots 
 Login
 Dashoard
